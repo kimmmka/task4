@@ -1,0 +1,4 @@
+\test_django\__pycache__
+\course\__pycache__
+\.env
+\db.sqlite3
